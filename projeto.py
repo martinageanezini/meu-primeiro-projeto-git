@@ -12,8 +12,3 @@ media = (nota1 + nota2 + nota3 + nota4 + nota5)/5
 
 # Saída de dados
 print("Sua média é ", media, "\n")
-if media >= 7:
-    print("Você foi aprovado!")
-
-else:
-    print("Você foi reprovado!")
